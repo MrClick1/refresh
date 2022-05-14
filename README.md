@@ -2,7 +2,7 @@
 浏览量刷子
 # 请务必看完！！！
 
-# 文件下载地址 #
+# 可执行文件下载地址 
 ##### 链接：https://pan.baidu.com/s/1Hu9m8BjlcLuGH75Brdn7Lg 
 ##### 提取码：soul
 
