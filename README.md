@@ -1,6 +1,7 @@
 # refresh
 浏览量刷子
 # 请务必看完！！！
+# 直接点击链接下载可执行文件即可
 
 # 可执行文件下载地址 
 ##### 链接：https://pan.baidu.com/s/1Hu9m8BjlcLuGH75Brdn7Lg 
